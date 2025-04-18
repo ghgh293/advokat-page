@@ -22,8 +22,8 @@
       text-align: center;
     }
     header img {
-      width: 200px;
-      height: 200px;
+      width: 150px;
+      height: 150px;
       border-radius: 50%;
       object-fit: cover;
       margin-bottom: 20px;
@@ -96,20 +96,6 @@
 <footer>
   <p>Телефон: +7 (777)1303169 | Email: sergazin_2007@mail.ru</p>
 </footer>
-
-<!-- Start of Tawk.to Script -->
-
-  var Tawk_API = Tawk_API || {}, Tawk_LoadStart = new Date();
-  (function() {
-    var s1 = document.createElement("script"), s0 = document.getElementsByTagName("script")[0];
-    s1.async = true;
-
-    s1.charset = 'UTF-8';
-    s1.setAttribute('crossorigin', '*');
-    s0.parentNode.insertBefore(s1, s0);
-  })();
-</script>
-<!-- End of Tawk.to Script -->
 
 </body>
 </html>
